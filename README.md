@@ -50,6 +50,6 @@ http://localhost:5173
 
 ### 📬 Contact
 
-GitHub: https://github.com/harivishvanath7
-LinkedIn: https://www.linkedin.com/in/harivishvanaths/
-Email: harivishvanaths@gmail.com
+  - GitHub: https://github.com/harivishvanath7
+  - LinkedIn: https://www.linkedin.com/in/harivishvanaths/
+  - Email: harivishvanaths@gmail.com
