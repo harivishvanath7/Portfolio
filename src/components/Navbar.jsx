@@ -18,8 +18,8 @@ const Navbar = () => {
         <ul className="hidden md:flex gap-6">
           <li className="cursor-pointer hover:text-brand-olive"><a href="#home">Home</a></li>
           <li className="cursor-pointer hover:text-brand-olive"><a href="#about">About</a></li>
-          <li className="cursor-pointer hover:text-brand-olive">Projects</li>
-          <li className="cursor-pointer hover:text-brand-olive">Contact</li>
+          <li className="cursor-pointer hover:text-brand-olive"><a href="#projects">Projects</a></li>
+          <li className="cursor-pointer hover:text-brand-olive"><a href="#contact">Contact</a></li>
         </ul>
 
         {/* Hamburger Menu (Mobile) */}
