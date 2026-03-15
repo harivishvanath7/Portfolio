@@ -14,7 +14,7 @@ export const projects = [
     title: "DevConnect",
     description: "A Community Made for and by the Developers.",
     tech: ["React", "Node.js", "Express", "MongoDB", "JWT", "REST APIs"],
-    link: "#",
+    link: "https://github.com/harivishvanath7/Dev_Connect",
     github: "https://github.com/harivishvanath7/Dev_Connect"
   },
   {
@@ -22,7 +22,7 @@ export const projects = [
     title: "AI Startup Valuator",
     description: "A Platform to valuate your Startup, helps in optimizing performances and provides metrics accordingly.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Groq API", "LLaMA 3", "REST APIs"],
-    link: "#",
+    link: "https://github.com/harivishvanath7/AI_Startup_Valuator",
     github: "https://github.com/harivishvanath7/AI_Startup_Valuator"
   },
 ];
