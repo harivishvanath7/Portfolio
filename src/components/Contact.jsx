@@ -37,19 +37,19 @@ const Contact = () => {
             type="text"
             name="name"
             placeholder="Your Name"
-            className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
+            className="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
           />
           <input
             type="email"
             name="email"
             placeholder="Your Email"
-            className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
+            className="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
           />
           <textarea
             name="message"
             rows="5"
             placeholder="Your Message"
-            className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
+            className="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-brand-dark"
           />
           <button
             type="submit"
