@@ -1,5 +1,6 @@
 import portfolio from "../assets/projects/portfolio.png";
 import startup from "../assets/projects/startup-valuator.png";
+import devconnect from "../assets/projects/devconnect.png";
 
 export const projects = [
   {
@@ -11,7 +12,7 @@ export const projects = [
     github: "https://github.com/harivishvanath7/Portfolio"
   },
   {
-    image: "/project2.png",
+    image: devconnect,
     title: "DevConnect",
     description: "A Community Made for and by the Developers.",
     tech: ["React", "Node.js", "Express", "MongoDB", "JWT", "REST APIs"],
