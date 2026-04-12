@@ -1,6 +1,7 @@
 import portfolio from "../assets/projects/portfolio.png";
 import startup from "../assets/projects/startup-valuator.png";
 import devconnect from "../assets/projects/devconnect.png";
+import blogwebsite from "../assets/projects/blog-website.png";
 
 export const projects = [
   {
@@ -26,6 +27,14 @@ export const projects = [
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Groq API", "LLaMA 3", "REST APIs"],
     link: "https://ai-startup-valuator.vercel.app/",
     github: "https://github.com/harivishvanath7/AI_Startup_Valuator"
+  },
+  {
+    image: blogwebsite,
+    title: "Blog & NewsLetter Platform",
+    description: "A Platform where I share my thoughts, learnings and my journey.",
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "NodeMailer", "Slug"],
+    link: "https://haris-blogs-newsletter.vercel.app/",
+    github: "https://github.com/harivishvanath7/Blog_Application"
   },
 ];
 
